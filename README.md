@@ -5,6 +5,16 @@ This project is a low-level implementation of Nonlinear Model Predictive Control
 * Lissajous curve
 * Reference points trajectory.
 
+# Get started with Vehicle Dynamics and MPC
+
+The following resources will help in understanding the basics and fundamentals of Vehicle dynamics, MPC algorithm and Introduction to CARLA:
+* [Simple Understanding of Kinematic Bicycle Model](https://dingyan89.medium.com/simple-understanding-of-kinematic-bicycle-model-81cac6420357) | [Yan Ding](https://www.linkedin.com/in/dingyan89/)
+* [Kinematic Bicycle Model](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Control/BicycleModel.html) | [Mario Theers](https://github.com/thomasfermi)
+* [Kinematic and dynamic vehicle models for autonomous driving control design](https://ieeexplore.ieee.org/document/7225830) | Jason Kong; Mark Pfeiffer; Georg Schildbach; Francesco Borrelli
+* [Self-driving cars with Carla and Python](https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/) | [Harrison](https://github.com/Sentdex)
+* [MPC and MHE implementation](https://youtube.com/playlist?list=PLK8squHT_Uzej3UCUHjtOtm5X7pMFSgAL&si=Vwcni2qbO7o7vAVT)- A 4 part video lecture where [Mohamed W. Mehrez](https://github.com/MMehrez) covers the fundamentals of MPC algorithm.
+* [Handbook of Model Predictive Control](https://www.researchgate.net/publication/323664435_Handbook_of_Model_Predictive_Control) | Saša V. Raković, William S. Levine
+
 # Abstract
 
 The estimated number of deaths due to road crashes in the year 2019 happens to be 36,096 in the United States. Autonomous Vehicles (AV) have the potential to revolutionize 
